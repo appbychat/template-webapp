@@ -7,5 +7,5 @@
     </linearGradient>
   </defs>
   <path fill="url(#bychat-logo-grad)" d="M7 5h18a4 4 0 0 1 4 4v11a4 4 0 0 1-4 4H14l-6 5a1 1 0 0 1-1.6-.8V24H7a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4Z" />
-  <text x="40" y="22" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="-0.5" fill="#171717">bychat</text>
+  <text x="40" y="22" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="-0.5" fill="#737373">bychat</text>
 </svg>

@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="bychat">
-  <defs>
-    <linearGradient id="bychat-logo-grad" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#fb923c" />
-      <stop offset="50%" stop-color="#ec4899" />
-      <stop offset="100%" stop-color="#8b5cf6" />
-    </linearGradient>
-  </defs>
-  <path fill="url(#bychat-logo-grad)" d="M7 5h18a4 4 0 0 1 4 4v11a4 4 0 0 1-4 4H14l-6 5a1 1 0 0 1-1.6-.8V24H7a4 4 0 0 1-4-4V9a4 4 0 0 1 4-4Z" />
-</svg>
+<svg fill="#4aa6d3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" enable-background="new 0 0 52 52" xml:space="preserve" stroke="#4aa6d3"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M42.3,4.9H30.4C29.6,3.2,27.9,2,26,2c-2.6,0-4.8,2.2-4.8,4.8s2.2,4.8,4.8,4.8c2,0,3.7-1.2,4.4-2.9h11.9 c2.1,0,3.8,1.7,3.8,3.8v7.7c0,2.1-1.7,3.8-3.8,3.8h-5.8v-5.8c0-1.6-1.3-2.9-2.9-2.9H18.3c-1.6,0-2.9,1.3-2.9,2.9v5.8H9.7 c-4.2,0-7.7,3.4-7.7,7.7v7.7c0,4.2,3.4,7.7,7.7,7.7h11.9C22.3,48.8,24,50,26,50c2.6,0,4.8-2.2,4.8-4.8c0-2.6-2.2-4.8-4.8-4.8 c-2,0-3.7,1.2-4.4,2.9H9.7c-2.1,0-3.8-1.7-3.8-3.8v-7.7c0-2.1,1.7-3.8,3.8-3.8h5.8v5.8c0,1.6,1.3,2.9,2.9,2.9h15.4 c1.6,0,2.9-1.3,2.9-2.9v-5.8h5.8c4.2,0,7.7-3.4,7.7-7.7v-7.7C50,8.3,46.5,4.9,42.3,4.9z"></path> </g></svg>

@@ -10,8 +10,10 @@ export function RootLayout() {
     <div className="min-h-screen flex flex-col">
       <header className="border-b">
         <div className="container flex h-14 items-center justify-between">
-          <Link to="/" className="font-semibold">
-            Webapp
+          <Link to="/" className="flex items-center" aria-label="bychat home">
+            {/* Brand wordmark — served from public/logo.svg. Swap the file (keep
+                the path) to rebrand; the favicon lives at public/favicon.svg. */}
+            <img src="/logo.svg" alt="bychat" className="h-7 w-auto dark:invert" />
           </Link>
           <nav className="flex items-center gap-2">
             <Link to="/dashboard">
